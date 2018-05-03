@@ -1,0 +1,35 @@
+CTI 110
+P1HW1 Questions
+Name: William Buckwell
+
+1. Write the binary versions of the numbers 0 through 7, in order (one per line)
+0 =  0000 0000
+1 =  0000 0001
+2 =  0000 0010
+3 =  0000 0011
+4 =  0000 0100
+5 =  0000 0101
+6 =  0000 0110
+7 =  0000 0111
+2. Write the binary versions of the numbers 8 through 15, in order (one per line)
+8 =  0000 1000
+9 =  0000 1001
+10 = 0000 1010
+11 = 0000 1011
+12 = 0000 1100
+13 = 0000 1101
+14 = 0000 1110
+15 = 0000 1111
+
+3. Convert the following decimal numbers to binary:
+
+11 = 0000 1011
+65 = 0100 0001
+100 = 0110 0100
+255 = 1111 1111
+
+4. Convert the following binary numbers to decimal:
+1101 = 13
+1000 = 8
+101011 = 43
+
